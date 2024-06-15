@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+#nav-bar {
+  position: relative;
+
+}
+#nav-bar ul{
+    list-style-type: none;
+    text-align: center;
+}
+#nav-bar ul li{
+    display: inline;
+    margin: 0 5px;
+}
+#description {
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#table-head {
+  color: lawngreen;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: 1px 1px 1px lightgreen;
+}
+
+#t-body {
+  color: whitesmoke;
+  text-align: center;
+}
+.table{
+    margin: 0 auto;
+}
